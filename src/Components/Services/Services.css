@@ -1,0 +1,37 @@
+.services-title{
+    
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ser-box{
+   
+    height: 250px;
+    text-align: center;
+    padding: 10px;
+   
+    
+}
+.ser-img{
+    height: 70px;
+    
+}
+.ser-img:hover{
+    transform: rotate(360deg);
+    transition: 2s;
+}
+.ser-ti{
+    font-weight: 800;
+    margin-top:4px;
+    color: black;
+   
+}
+.ser-box:hover{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px 12px rgba(235, 235, 235, 0.781);
+    border-radius: 5px;
+    
+}
+.adminser{
+    width: 350px;
+}

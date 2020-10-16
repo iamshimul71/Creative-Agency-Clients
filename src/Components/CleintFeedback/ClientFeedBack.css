@@ -1,0 +1,18 @@
+.client-title{
+    color: #111430;
+    text-align: center;
+    font-weight: 800;
+    margin-top: 50px;
+}
+.rev-box{
+    padding: 15px;
+    border: 1px solid rgba(231, 237, 243, 0.836);
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px lightgrey;
+}
+
+.rev-img{
+    height: 50px;
+    float: left;
+    padding-right: 10px;
+}

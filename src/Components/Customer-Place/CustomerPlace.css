@@ -1,0 +1,70 @@
+.footer-dgn{
+    
+}
+.btn-dgn{
+    background:#111430;
+    color: #fff;
+    padding: 7px 60px;
+    border: 1px solid #111430 ;
+    border-radius: 5px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 40px;
+}
+.customer-info{
+background-color: #F4F7FC;
+height: 600px;
+}
+.icon-dgn{
+    margin-top: 50px;
+    list-style: none;
+    color: black;
+}
+.icon-dgn li a{
+    color: black;
+    font-weight: 700;
+}
+.upload{
+    background-color:#DEFFED;
+    color: #1BA159;
+    padding: 7px;
+    border: 1px solid #1BA159;
+    font-weight: 600;
+    border-radius: 5px;
+    
+}
+.icon-dgn li a:hover{
+    color: #1BA159;
+}
+.order{
+    margin-left: 140px;
+}
+.name{
+    text-align: right;
+    color: #111430;
+}
+.list-item-box{
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 10px 10px 15px lightgrey;
+    border-radius: 10px;
+    
+    
+}
+.status-dgn{
+    text-align: right;
+    background-color: #FFE3E3;
+    color: #FF7575;
+    padding: 10px;
+    width: 85px;
+    border-radius: 6px;
+}
+.admin{
+    background-color: #1BA159;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}

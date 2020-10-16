@@ -1,0 +1,14 @@
+.footer-dgn{
+    background-color: #FBD062;
+}
+.btn-dgn{
+    background:#111430;
+    color: #fff;
+    padding: 7px 60px;
+    border: 1px solid #111430 ;
+    border-radius: 5px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 40px;
+}

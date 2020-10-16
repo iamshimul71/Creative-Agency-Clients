@@ -1,0 +1,41 @@
+.header-sec{
+    padding: 100px 0;
+    background: #FBD062;
+    transform: skew(0deg,-5deg) translateY(-120px);
+    
+     
+}
+.container{
+       padding: 15px 20px;
+       transform: skew(0deg,5deg)
+}
+.nav-design li{
+    margin-right: 15px !important;
+    font-weight: 500;
+    
+}
+.head-title{
+    color: #111430;
+    font-weight: 700;
+    font-size: 50px;
+}
+.btn-hire{
+    background:#111430;
+    color: #fff;
+    padding: 7px 60px;
+    border: 1px solid #111430 ;
+    border-radius: 5px;
+}
+.head-des{
+  
+    color:rgba(0, 0, 0, 0.884);
+}
+.login-dgn{
+    background-color: #111430;
+    padding: 0px 20px !important;
+    border-radius: 3px;
+    
+}
+.login-dgn a{
+    color: #fff !important;
+}

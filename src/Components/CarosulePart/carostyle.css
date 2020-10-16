@@ -1,0 +1,21 @@
+.carousel-main{
+    background:#111430;
+    height: 400px;
+}
+.carousel-title{
+    color: white;
+    display: block;
+    height: 20px;
+   margin-bottom: 30px;
+   text-align: center;
+   font-weight: 700;
+    
+}
+.carousel-dgn{
+    margin-top: 10px;
+    
+}
+.cal-img{
+    height: 300px;
+    width: 610px;
+}
